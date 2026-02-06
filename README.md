@@ -19,4 +19,4 @@ WORKSHOP HAKKINDA:
 8-90'a kadar bütün yaşlar katılım gösterebilir. Workshopların bir ücreti olmamakla beraber gelen bağışların hepsi yeni ilçelerde workshoplar açmak için ve etkinliklerin sayısını ve çeşidini arttırmak için kullanılacak. Workshopların asıl amacı insanları bir araya getirerek beraberlik duygusunu yaşatmak ve çevremizi temiz tutmaya çalışmak.
 
 
-Html ve css için günlük sitesi ve portfolyo siteleri projeleri faydalı olabilir. 
+Html ve css için günlük sitesi ve portfolyo siteleri projeleri faydalı olabilir. Css ve html tekrar et kulllancı kayıt sistemleri yap ekstra bilgileri topla.
